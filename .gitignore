@@ -1,9 +1,8 @@
-elpa/
-recentf
-request/
-smex-items
-tmp/
-projectile-bookmarks.eld
-bookmarks
-auto-save-list/
-README.html
+*
+!.gitignore
+!init.el
+!custom.el
+!README.org
+!early-init.el
+!early-init-private.el
+!private.el
