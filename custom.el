@@ -18,7 +18,7 @@
  '(org-journal-dir "~/Documents/org/journal")
  '(package-selected-packages
    (quote
-    (org-roam org-journal eyebrowse vterm cider paredit clojure-mode material-theme cyberpunk-theme emmet-mode web-mode markdown-mode haml-mode yaml-mode define-word powerthesaurus flyspell-correct-popup flyspell-correct company shell-pop git-gutter magit counsel-projectile ivy-rich avy flx smex counsel swiper ivy projectile multiple-cursors visual-regexp move-text expand-region which-key vi-tilde-fringe neotree rich-minority smartparens all-the-icons undo-tree simpleclip exec-path-from-shell use-package)))
+    (smooth-scroll org-roam org-journal eyebrowse vterm cider paredit clojure-mode material-theme cyberpunk-theme emmet-mode web-mode markdown-mode haml-mode yaml-mode define-word powerthesaurus flyspell-correct-popup flyspell-correct company shell-pop git-gutter magit counsel-projectile ivy-rich avy flx smex counsel swiper ivy projectile multiple-cursors visual-regexp move-text expand-region which-key vi-tilde-fringe neotree rich-minority smartparens all-the-icons undo-tree simpleclip exec-path-from-shell use-package)))
  '(shell-pop-shell-type
    (quote
     ("ansi-term" "*ansi-term*"
